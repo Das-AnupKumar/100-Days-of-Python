@@ -40,12 +40,8 @@ print("b: " + b)
 print("Welcome to brand name generator!!")
 #2. Ask the user for the city that they grew up in.
 city_name = input("May I know which city did you grow up in?\n")
-print(city_name)
-
 #3. Ask the user for the name of a pet.
 pet_name = input("May I ask your pet name\n")
-print(pet_name)
-
 #4. Combine the name of their city and pet and show them their band name.
 print("your band name could be " +city_name +" "+pet_name)
 #5. Make sure the input cursor shows on a new line:
